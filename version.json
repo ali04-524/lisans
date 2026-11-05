@@ -1,9 +1,8 @@
 {
-  "latest": "3.2",
-  "min": "3.2",
+  "latest": "3.3",
+  "min": "3.3",
   "notes": [
-    "Sunucu koruması (anti-nuke / anti-raid)",
-    "Ticket sahiplenme ve kapanış özeti",
-    "Yeni siyah-kırmızı tasarım"
+    "Kod Guvenlıgı",
+    "Optimizeler"
   ]
 }
