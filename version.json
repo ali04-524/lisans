@@ -1,8 +1,10 @@
 {
-  "latest": "3.3",
-  "min": "3.3",
+  "latest": "3.2",
+  "min": "3.2",
   "notes": [
-    "Kod Guvenlıgı",
-    "Optimizeler"
+    "Spam, üye akışı ve anti-nuke koruması",
+    "Yeni ticket: numara, sahiplenme, ortalama yanıt",
+    "Kişi bilgili hoş geldin mesajı",
+    "Oto cevap düzenleme"
   ]
 }
