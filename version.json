@@ -1,11 +1,7 @@
 {
-  "latest": "3.2.1",
+  "latest": "3.2.2",
   "min": "3.2.1",
   "notes": [
-    "Spam, üye akışı ve anti-nuke koruması",
-    "Yeni ticket: numara, sahiplenme, ortalama yanıt süresi",
-    "Kişi bilgili hoş geldin mesajı",
-    "Oto cevap düzenleme",
-    "Yeni ayarlar düzeni ve canlı Discord önizlemesi"
+    "guncelleme sistemi testi"
   ]
 }
