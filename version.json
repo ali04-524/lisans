@@ -1,8 +1,8 @@
 {
-  "latest": "3.2.6",
+  "latest": "3.2.7",
   "min": "3.2.1",
   "notes": [
-    "ticket gecikmeleri azaltıldı",
-    "kod korumaları sıkılaştırıldı"
+    "Guard Bot Yeni Uyeye Dm Mesajı Yenilendi",
+    "Guvenlik Acıkları Duzeltıldı"
   ]
 }
