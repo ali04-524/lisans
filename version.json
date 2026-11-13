@@ -1,7 +1,7 @@
 {
-  "latest": "3.2.8",
+  "latest": "3.2.9",
   "min": "3.2.1",
   "notes": [
-    "bot durumu ve acıklaması belırleme"
+    "Ticket Botunda Buyuk Değişiklik"
   ]
 }
