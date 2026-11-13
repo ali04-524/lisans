@@ -1,8 +1,7 @@
 {
-  "latest": "3.2.7",
+  "latest": "3.2.8",
   "min": "3.2.1",
   "notes": [
-    "Guard Bot Yeni Uyeye Dm Mesajı Yenilendi",
-    "Guvenlik Acıkları Duzeltıldı"
+    "bot durumu ve acıklaması belırleme"
   ]
 }
